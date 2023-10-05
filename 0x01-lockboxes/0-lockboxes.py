@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Defines a function that takes a list of lists as input and determines if a bocan be opened using keys stored in the lists
+"""Defines a function that takes a list of lists as input and determines
+if a bocan be opened using keys stored in the lists
 """
 
 
